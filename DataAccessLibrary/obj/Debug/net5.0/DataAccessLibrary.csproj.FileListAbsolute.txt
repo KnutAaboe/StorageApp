@@ -1,0 +1,12 @@
+C:\Users\Knut\Development\DAT190\StorageApp\DataAccessLibrary\bin\Debug\net5.0\DataAccessLibrary.deps.json
+C:\Users\Knut\Development\DAT190\StorageApp\DataAccessLibrary\bin\Debug\net5.0\DataAccessLibrary.dll
+C:\Users\Knut\Development\DAT190\StorageApp\DataAccessLibrary\bin\Debug\net5.0\ref\DataAccessLibrary.dll
+C:\Users\Knut\Development\DAT190\StorageApp\DataAccessLibrary\bin\Debug\net5.0\DataAccessLibrary.pdb
+C:\Users\Knut\Development\DAT190\StorageApp\DataAccessLibrary\obj\Debug\net5.0\DataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\Knut\Development\DAT190\StorageApp\DataAccessLibrary\obj\Debug\net5.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Knut\Development\DAT190\StorageApp\DataAccessLibrary\obj\Debug\net5.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\Knut\Development\DAT190\StorageApp\DataAccessLibrary\obj\Debug\net5.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\Knut\Development\DAT190\StorageApp\DataAccessLibrary\obj\Debug\net5.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Knut\Development\DAT190\StorageApp\DataAccessLibrary\obj\Debug\net5.0\DataAccessLibrary.dll
+C:\Users\Knut\Development\DAT190\StorageApp\DataAccessLibrary\obj\Debug\net5.0\ref\DataAccessLibrary.dll
+C:\Users\Knut\Development\DAT190\StorageApp\DataAccessLibrary\obj\Debug\net5.0\DataAccessLibrary.pdb

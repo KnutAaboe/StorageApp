@@ -1,0 +1,47 @@
+﻿@page "/Data/Items"
+
+@using DataAccessLibrary
+@using DataAccessLibrary.Model
+
+@inject IItemsData _db
+
+<h1>Items</h1>
+
+<h4>Current Items</h4>
+@if (items is null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Amount</th>
+                    <th>Location</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in items)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Name</td>
+                        <td>@item.Amount</td>
+                        <td>@item.Location</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+@code {
+    private List<ItemModel> items;
+
+    protected override async Task OnInitializedAsync()
+    {
+        items = await _db.GetItems();
+    }
+}
